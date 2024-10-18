@@ -1,1 +1,6 @@
-456456kjkjgkg99999999933333
+def salambye():
+    print('salam')
+    print('bye bye')
+
+
+salambye()
